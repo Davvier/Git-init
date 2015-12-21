@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "witaj"
+touch $1.txt
